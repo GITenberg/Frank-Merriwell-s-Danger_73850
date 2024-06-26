@@ -1,0 +1,36 @@
+_repo: Frank-Merriwell-s-Danger_73850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, Gilbert
+    - Patten, William Gilbert
+    - Wilder, William West
+    - Wilder, William W. (William West)
+    - Patten, George William
+    - Patten, William G. (William Gilbert)
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2024-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73850'
+language: en
+pgterms:marc905: 20191124071615standish
+pgterms:marc906: '1904'
+pgterms:marc907: us
+production_note: Carla Foust, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bStreet & Smith, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Frank Merriwell's Danger
+url: http://www.gutenberg.org/ebooks/73850
