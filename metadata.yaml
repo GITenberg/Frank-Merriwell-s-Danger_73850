@@ -1,5 +1,8 @@
 _repo: Frank-Merriwell-s-Danger_73850
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73850-h/images/cover.jpg
 creator:
   author:
     agent_name: Standish, Burt L.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3848
     wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73850#Frank-Merriwell-s-Danger
 gutenberg_issued: '2024-06-17'
 gutenberg_type: Text
 identifiers:
